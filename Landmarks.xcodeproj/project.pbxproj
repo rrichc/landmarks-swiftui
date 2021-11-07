@@ -12,6 +12,7 @@
 		C16E8A7C273892DA00CF1F81 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C16E8A7B273892DA00CF1F81 /* Assets.xcassets */; };
 		C16E8A7F273892DA00CF1F81 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C16E8A7E273892DA00CF1F81 /* Preview Assets.xcassets */; };
 		C16E8A862738981F00CF1F81 /* CircleImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = C16E8A852738981F00CF1F81 /* CircleImage.swift */; };
+		C16E8A88273899EE00CF1F81 /* MapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C16E8A87273899EE00CF1F81 /* MapView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +22,7 @@
 		C16E8A7B273892DA00CF1F81 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C16E8A7E273892DA00CF1F81 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		C16E8A852738981F00CF1F81 /* CircleImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleImage.swift; sourceTree = "<group>"; };
+		C16E8A87273899EE00CF1F81 /* MapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				C16E8A79273892D900CF1F81 /* ContentView.swift */,
 				C16E8A7B273892DA00CF1F81 /* Assets.xcassets */,
 				C16E8A852738981F00CF1F81 /* CircleImage.swift */,
+				C16E8A87273899EE00CF1F81 /* MapView.swift */,
 				C16E8A7D273892DA00CF1F81 /* Preview Content */,
 			);
 			path = Landmarks;
@@ -141,6 +144,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				C16E8A7A273892D900CF1F81 /* ContentView.swift in Sources */,
+				C16E8A88273899EE00CF1F81 /* MapView.swift in Sources */,
 				C16E8A78273892D900CF1F81 /* LandmarksApp.swift in Sources */,
 				C16E8A862738981F00CF1F81 /* CircleImage.swift in Sources */,
 			);
